@@ -1,0 +1,11 @@
+# Секреты — никогда не в репозиторий
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Локальный кэш
+output/cloud_ids.json
